@@ -1,0 +1,14 @@
+{
+  "type": "avaritia:compressor",
+  "result": {
+    "item": "extrasingularity:AlubrassSingularity",
+    "count": 1
+  },
+  "cost":400,
+  "ingredients":[
+    {
+      "type": "forge:ore_dict",
+      "ore": "blockAlubrass"
+    }
+  ]
+}

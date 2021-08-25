@@ -1,0 +1,16 @@
+[
+{
+  "modid": "extrasingularity",
+  "name": "Extra Singularity",
+  "description": "This mod provides more singularities.",
+  "version": "0.2.6.7",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/NanXiHanSheng/ExtraSingularity",
+  "updateUrl": "",
+  "authorList": ["ZengYouYuan"],
+  "credits": "",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

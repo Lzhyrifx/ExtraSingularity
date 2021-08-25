@@ -1,0 +1,88 @@
+package com.zeng.registry;
+
+import com.zeng.item.*;
+import net.minecraft.item.Item;
+
+public class ItemLoader {
+    public static final Item AlubrassSingularity = new AlubrassSingularity();
+    public static final Item AlumiteSingularity = new AlumiteSingularity();
+    public static final Item BoundSingularity = new BoundSingularity();
+    public static final Item BronzeSingularity = new BronzeSingularity();
+    public static final Item ConductiveIronSingularity = new ConductiveIronSingularity();
+    public static final Item ConstantanSingularity = new ConstantanSingularity();
+    public static final Item ConstructionAlloySingularity = new ConstructionAlloySingularity();
+    public static final Item DarkMatterSingularity = new DarkMatterSingularity();
+    public static final Item DarkSteelSingularity = new DarkSteelSingularity();
+    public static final Item ElectricalSteelSingularity = new ElectricalSteelSingularity();
+    public static final Item ElectrumSingularity = new ElectrumSingularity();
+    public static final Item ElementiumSingularity = new ElementiumSingularity();
+    public static final Item EnchantedMetalSingularity = new EnchantedMetalSingularity();
+    public static final Item EnderiumSingularity = new EnderiumSingularity();
+    public static final Item EndSteelSingularity = new EndSteelSingularity();
+    public static final Item EnergeticAlloySingularity = new EnergeticAlloySingularity();
+    public static final Item EnergiumSingularity = new EnergiumSingularity();
+    public static final Item EssenceInfusedSingularity = new EssenceInfusedSingularity();
+    public static final Item EvilMetalSingularity = new EvilMetalSingularity();
+    public static final Item FluixSingularity = new FluixSingularity();
+    public static final Item InvarSingularity = new InvarSingularity();
+    public static final Item LumiumSingularity = new LumiumSingularity();
+    public static final Item MirionSingularity = new MirionSingularity();
+    public static final Item OsgloglasSingularity = new OsgloglasSingularity();
+    public static final Item OsmiridiumSingularity = new OsmiridiumSingularity();
+    public static final Item PigironSingularity = new PigironSingularity();
+    public static final Item QuicksilverSingularity = new QuicksilverSingularity();
+    public static final Item RedMatterSingularity = new RedMatterSingularity();
+    public static final Item RedstoneAlloySingularity = new RedstoneAlloySingularity();
+    public static final Item RefinedObsidianSingularity = new RefinedObsidianSingularity();
+    public static final Item SakurasteelSingularity = new SakurasteelSingularity();
+    public static final Item ShadowiumSingularity = new ShadowiumSingularity();
+    public static final Item SignalumSingularity = new SignalumSingularity();
+    public static final Item SoulariumSingularity = new SoulariumSingularity();
+    public static final Item SteelSingularity = new SteelSingularity();
+    public static final Item TerrasteelSingularity = new TerrasteelSingularity();
+    public static final Item UUMatterSingularity = new UUMatterSingularity();
+    public static final Item VibrantAlloySingularity = new VibrantAlloySingularity();
+    public static final Item WyvernMetalSingularity = new WyvernMetalSingularity();
+
+    public static void load(){
+        ItemRegistryHandler.items.add(AlubrassSingularity);
+        ItemRegistryHandler.items.add(AlumiteSingularity);
+        ItemRegistryHandler.items.add(BoundSingularity);
+        ItemRegistryHandler.items.add(BronzeSingularity);
+        ItemRegistryHandler.items.add(ConductiveIronSingularity);
+        ItemRegistryHandler.items.add(ConstantanSingularity);
+        ItemRegistryHandler.items.add(ConstructionAlloySingularity);
+        ItemRegistryHandler.items.add(DarkMatterSingularity);
+        ItemRegistryHandler.items.add(DarkSteelSingularity);
+        ItemRegistryHandler.items.add(ElectricalSteelSingularity);
+        ItemRegistryHandler.items.add(ElectrumSingularity);
+        ItemRegistryHandler.items.add(ElementiumSingularity);
+        ItemRegistryHandler.items.add(EnchantedMetalSingularity);
+        ItemRegistryHandler.items.add(EnderiumSingularity);
+        ItemRegistryHandler.items.add(EndSteelSingularity);
+        ItemRegistryHandler.items.add(EnergeticAlloySingularity);
+        ItemRegistryHandler.items.add(EnergiumSingularity);
+        ItemRegistryHandler.items.add(EssenceInfusedSingularity);
+        ItemRegistryHandler.items.add(EvilMetalSingularity);
+        ItemRegistryHandler.items.add(FluixSingularity);
+        ItemRegistryHandler.items.add(InvarSingularity);
+        ItemRegistryHandler.items.add(LumiumSingularity);
+        ItemRegistryHandler.items.add(MirionSingularity);
+        ItemRegistryHandler.items.add(OsgloglasSingularity);
+        ItemRegistryHandler.items.add(OsmiridiumSingularity);
+        ItemRegistryHandler.items.add(PigironSingularity);
+        ItemRegistryHandler.items.add(QuicksilverSingularity);
+        ItemRegistryHandler.items.add(RedMatterSingularity);
+        ItemRegistryHandler.items.add(RedstoneAlloySingularity);
+        ItemRegistryHandler.items.add(RefinedObsidianSingularity);
+        ItemRegistryHandler.items.add(SakurasteelSingularity);
+        ItemRegistryHandler.items.add(ShadowiumSingularity);
+        ItemRegistryHandler.items.add(SignalumSingularity);
+        ItemRegistryHandler.items.add(SoulariumSingularity);
+        ItemRegistryHandler.items.add(SteelSingularity);
+        ItemRegistryHandler.items.add(TerrasteelSingularity);
+        ItemRegistryHandler.items.add(UUMatterSingularity);
+        ItemRegistryHandler.items.add(VibrantAlloySingularity);
+        ItemRegistryHandler.items.add(WyvernMetalSingularity);
+    }
+}

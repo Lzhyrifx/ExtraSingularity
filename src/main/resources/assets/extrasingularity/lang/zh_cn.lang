@@ -1,0 +1,93 @@
+#
+#
+#
+#Mod
+itemGroup.extrasingularity=Extra Singularity
+#Mod
+#
+#Singularity
+#
+#Tinkers' Construct 2
+item.extrasingularity.AlubrassSingularity.name=奇点-铝黄铜
+item.extrasingularity.ElectrumSingularity.name=奇点-琥珀金
+item.extrasingularity.PigironSingularity.name=奇点-生铁
+#Tinkers' Construct 2
+
+#PlusTiC
+item.extrasingularity.AlumiteSingularity.name=奇点-耐酸铝
+item.extrasingularity.MirionSingularity.name=奇点-蕴魔结晶
+item.extrasingularity.OsgloglasSingularity.name=奇点-锇荧黑曜合金
+item.extrasingularity.OsmiridiumSingularity.name=奇点-铱锇合金
+#PlusTiC
+
+#Tinkers' Evolution
+item.extrasingularity.BoundSingularity.name=奇点-束缚金属
+item.extrasingularity.EnergiumSingularity.name=奇点-能量金属
+item.extrasingularity.EssenceInfusedSingularity.name=奇点-蕴魔源质
+item.extrasingularity.UUMatterSingularity.name=奇点-UU金属
+item.extrasingularity.WyvernMetalSingularity.name=奇点-飞龙金属
+#Tinkers' Evolution
+
+#Ender IO
+item.extrasingularity.ConductiveIronSingularity.name=奇点-导电铁
+item.extrasingularity.ConstructionAlloySingularity.name=奇点-铁合金
+item.extrasingularity.DarkSteelSingularity.name=奇点-玄钢
+item.extrasingularity.ElectricalSteelSingularity.name=奇点-磁钢
+item.extrasingularity.EndSteelSingularity.name=奇点-末影钢
+item.extrasingularity.EnergeticAlloySingularity.name=奇点-充能合金
+item.extrasingularity.RedstoneAlloySingularity.name=奇点-红石合金
+item.extrasingularity.SoulariumSingularity.name=奇点-魂金
+item.extrasingularity.VibrantAlloySingularity.name=奇点-脉冲合金
+#Ender IO
+
+#Thermal Foundation
+item.extrasingularity.BronzeSingularity.name=奇点-青铜
+item.extrasingularity.ConstantanSingularity.name=奇点-康铜
+item.extrasingularity.EnderiumSingularity.name=奇点-末影
+item.extrasingularity.InvarSingularity.name=奇点-殷钢
+item.extrasingularity.LumiumSingularity.name=奇点-流明
+item.extrasingularity.SignalumSingularity.name=奇点-信素
+item.extrasingularity.SteelSingularity.name=奇点-钢
+#Thermal Foundation
+
+#Extra Utilities 2
+item.extrasingularity.EnchantedMetalSingularity.name=奇点-附魔金属
+item.extrasingularity.EvilMetalSingularity.name=奇点-恶魔灌注金属
+#Extra Utilities 2
+
+#ProjectE
+item.extrasingularity.DarkMatterSingularity.name=奇点-暗物质
+item.extrasingularity.RedMatterSingularity.name=奇点-红物质
+#ProjectE
+
+#Botania
+item.extrasingularity.ElementiumSingularity.name=奇点-源质钢
+item.extrasingularity.TerrasteelSingularity.name=奇点-泰拉钢
+#Botania
+
+#ExtraBotany
+item.extrasingularity.ShadowiumSingularity.name=奇点-暗影金属
+#ExtraBotany
+
+#Applied Energistics 2
+item.extrasingularity.FluixSingularity.name=奇点-福鲁伊克斯
+#Applied Energistics 2
+
+#Thaumcraft 6
+item.extrasingularity.QuicksilverSingularity.name=奇点-水银
+#Thaumcraft 6
+
+#The Last Smith
+item.extrasingularity.SakuraSteelSingularity.name=奇点-魂樱钢
+#The Last Smith
+
+#Mekanism
+item.extrasingularity.RefinedObsidianSingularity.name=奇点-强化黑曜石
+#Mekanism
+
+
+
+
+
+
+
