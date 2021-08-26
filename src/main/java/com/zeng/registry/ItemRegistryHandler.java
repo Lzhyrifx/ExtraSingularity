@@ -1,7 +1,6 @@
 package com.zeng.registry;
 
 import com.zeng.Main;
-import com.zeng.item.AlubrassSingularity;
 import morph.avaritia.recipe.AvaritiaRecipeManager;
 import morph.avaritia.recipe.extreme.ExtremeShapelessRecipe;
 import morph.avaritia.recipe.extreme.IExtremeRecipe;
@@ -29,8 +28,11 @@ import java.util.List;
 import java.util.Objects;
 
 @Mod.EventBusSubscriber(modid = Main.MOD_ID)
-public class ItemRegistryHandler{
-        public static final List<Item> items = new ArrayList<>();
+public class ItemRegistryHandler extends Main{
+    public static ResourceLocation CATALYST_RECIPE_LOCATION = new ResourceLocation("avaritia:items/infinity_catalyst");
+
+
+    public static final List<Item> items = new ArrayList<>();
 
     public static final CreativeTabs ZENG_CREATIVE_TAB = new CreativeTabs("extrasingularity") {
         @Nonnull
@@ -39,6 +41,8 @@ public class ItemRegistryHandler{
             return new ItemStack(ItemLoader.TerrasteelSingularity);
         }
     };
+
+
 
     @SubscribeEvent
     public static void onItemRegister(RegistryEvent.Register<Item> event) {
@@ -64,9 +68,8 @@ public class ItemRegistryHandler{
         }
     }
 
-    public static ResourceLocation CATALYST_RECIPE_LOCATION = new ResourceLocation("avaritia:items/infinity_catalyst");
-
-    static{
+    @Override
+    public void init(){
         addCatalystIngredient(ItemLoader.AlubrassSingularity);
     }
     public static void addCatalystIngredient(Object input) {
