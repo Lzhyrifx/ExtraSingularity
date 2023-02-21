@@ -1,3 +1,4 @@
+# ExtraSingularity
 ExtraSingularity
 中文译名为额外奇点,为无尽贪婪Avaritia附属mod
 1.12.2版本的Minecraft模组,旨在提供更多样化的奇点和平衡奇点合成的难度
